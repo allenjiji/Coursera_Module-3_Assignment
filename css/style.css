@@ -1,0 +1,121 @@
+body{
+    background-color: floralwhite;
+    font-size: 16px;
+    color: black;
+    font-family:  "Comic Sans MS",sans-serif;
+
+}
+.heading{
+   font-weight: bold;
+   font-size: 1.5em;
+    padding: 5px 20px;
+    text-align: center; 
+}
+h1{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+p{
+    clear: right;
+    padding: 15px;
+    font-size: 1.1em;
+}
+
+.icon-bar{
+    width: 100%;
+    float: right;         
+    height: 5px;
+    background-color:black;
+    margin-bottom: 5px;
+}
+
+#header-nav{
+    color: black;
+    background-color: grey; 
+    width: 100%;
+}
+#box1,#box2,#box3 {
+    position: relative;
+    border: 2px solid black;
+    margin: 10px 20px;
+    background-color: grey;
+}
+.row{
+    position: absolute;
+    margin:auto;
+}
+
+#header-nav{
+    padding:0 ;
+}
+hr.underline{
+        border:1.5px solid black;
+        width:100%;
+        margin:0px
+    
+}
+
+.navbar-brand h1{
+    color: black;
+    float: left;
+    text-transform: uppercase;
+    text-shadow: 12px black;
+    font-weight: bold;
+}
+.navbar-header{
+    width: 100%;
+}
+
+.navbar-toggler{
+    position: relative;
+    top:15px;
+    right: 15px;
+    background-color: grey;
+    border: 2px solid black;
+    float: right;
+}
+
+.navbar-toggler-icon{
+    height:1px;
+} 
+
+.main-head{
+   /*  text-align: center; */
+    font-weight: bold;
+    font-size: 2em;
+    margin: 20px auto 100px;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+#navlist{
+    margin-top: 10px;
+}
+
+#navbarSupportedContent{
+    background-color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#navbarSupportedContent a{
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    width: 100%;
+}
+#navbarSupportedContent a:hover{
+    background-color: grey;
+}
+
+ 
+ 
+
+
+
+
+
